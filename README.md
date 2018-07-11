@@ -6,14 +6,17 @@ Each week constsits of two days of learning (workshops, presentations and resear
 ##  Week 2 
 ### :school_satchel: Main workshop learnings: 
 * npm 
+* Callback functions (and callback hell! :scream:)
 * Test-driven development
-* No function should go untested
+* No function, however small, should go untested
 
 ### :wavy_dash: Design challenge: Layout and spacing
 * Try to create style guidelines (like [Airbnb](https://airbnb.design/building-a-visual-language/)) for your project website that scales the size and spacing of elements based on mathematic ratios
 
-### :rocket: Team project: To-do app
-The second team project brief asked for a [to-do app](https://fac-14.github.io/teamcoolerweek2/) with the main aim to get us to test our code and try out callback functions sing git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek2)
+### :rocket: Team project: Get to know callback functions and learn to test everything
+The project brief asked for: 
+* A [to-do app](https://fac-14.github.io/teamcoolerweek2/) 
+* A [GitHub repo](https://github.com/fac-14/teamcoolerweek2) ready for code review
 
 --- 
 
@@ -28,8 +31,10 @@ The second team project brief asked for a [to-do app](https://fac-14.github.io/t
 ### :wavy_dash: Design challenge: Nav
 * Try to create a nav bar that balances the expected standard features with new and unexpected design and add it to your project website
 
-### :rocket: Team project: Team website
-The first team project brief asked for a [team website](https://fac-14.github.io/teamcoolerweek1/) with the main aim to get us comfortable using git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek1).
+### :rocket: Team project: Get comfortable using git
+The project brief asked for:
+* A [team website](https://fac-14.github.io/teamcoolerweek1/) 
+* A [GitHub repo](https://github.com/fac-14/teamcoolerweek1) ready for code review
 
 ![Team website](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week1_project_team%20website.png)
 Format: ![Screenshot of the team website](https://fac-14.github.io/teamcoolerweek1/)
