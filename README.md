@@ -8,15 +8,24 @@ Main workshop learnings:
 * TDD testing
 * No function should go untested
 
+### Design challenge: Layout and spacing for your team project
+* Try to create style guidelines (like [Airbnb](https://airbnb.design/building-a-visual-language/)) that scales the size and spacing of elements based on maths
+
 ### Team project: To-do app
-The second team project brief asked for a [to-do app](https://fac-14.github.io/teamcoolerweek2/) with the main aim to get us to test our code and try out callback functions sing git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek2).
+The second team project brief asked for a [to-do app](https://fac-14.github.io/teamcoolerweek2/) with the main aim to get us to test our code and try out callback functions sing git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek2)
+
+--- 
 
 ## Week 1 
 Main workshop learnings: 
 * Accessibility
 * Pair programming 
+* Code review 
 * Coding as part of a team
 * Git, git and git!
+
+### Design challenge: Nav bars for your team project
+* Try to create a nav bar that balances the expected standrad features with new and unexpected design
 
 ### Team project: Team website
 The first team project brief asked for a [team website](https://fac-14.github.io/teamcoolerweek1/) with the main aim to get us comfortable using git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek1).
