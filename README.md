@@ -5,7 +5,8 @@ Each week constsits of two days of learning (workshops, presentations and resear
 
 ## Week 2 
 Main workshop learnings: 
-* TDD testing
+* npm 
+* Test-driven development
 * No function should go untested
 
 ### Design challenge: Layout and spacing for your team project
