@@ -3,6 +3,14 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
+## Week 2 
+Main workshop learnings: 
+* TDD testing
+* No function should go untested
+
+### Team project: To-do app
+The second team project brief asked for a [to-do app](https://fac-14.github.io/teamcoolerweek2/) with the main aim to get us to test our code and try out callback functions sing git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek2).
+
 ## Week 1 
 Main workshop learnings: 
 * Accessibility
@@ -10,7 +18,7 @@ Main workshop learnings:
 * Coding as part of a team
 * Git, git and git!
 
-### Project - Team website
+### Team project: Team website
 The first team project brief asked for a [team website](https://fac-14.github.io/teamcoolerweek1/) with the main aim to get us comfortable using git and developing a join repo on [GitHub](https://github.com/fac-14/teamcoolerweek1).
 
 ![Team website](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week1_project_team%20website.png)
