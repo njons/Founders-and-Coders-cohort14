@@ -3,7 +3,7 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
-##  Week 2 
+##  Week 2 - testing 
 ### :school_satchel: Main workshop learnings: 
 * npm 
 * Callback functions (and callback hell! :scream:)
@@ -23,7 +23,7 @@ Screenshot of the to-do app
 
 --- 
 
-## Week 1 
+## Week 1 - Gitting started 
 ### :school_satchel: Main workshop learnings: 
 * Accessibility
 * Pair programming 
