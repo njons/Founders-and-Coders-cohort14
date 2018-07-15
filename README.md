@@ -17,6 +17,8 @@ Each week constsits of two days of learning (workshops, presentations and resear
 The project brief asked for: 
 * A [to-do app](https://fac-14.github.io/teamcoolerweek-2/) 
 * A [GitHub repo](https://github.com/fac-14/teamcoolerweek-2) ready for code review
+![To-do app](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week2_project_to-do%20app.png)
+Format: ![Screenshot of the to-do app]
 
 --- 
 
