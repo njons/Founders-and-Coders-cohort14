@@ -18,7 +18,7 @@ The project brief asked for:
 * A [to-do app](https://fac-14.github.io/teamcoolerweek-2/) 
 * A [GitHub repo](https://github.com/fac-14/teamcoolerweek-2) ready for code review
 ![To-do app](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week2_project_to-do%20app.png)
-Format: ![Screenshot of the to-do app]
+Format: Screenshot of the to-do app
 
 --- 
 
@@ -39,7 +39,7 @@ The project brief asked for:
 * A [GitHub repo](https://github.com/fac-14/teamcoolerweek1) ready for code review
 
 ![Team website](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week1_project_team%20website.png)
-Format: ![Screenshot of the team website](https://fac-14.github.io/teamcoolerweek1/)
+Format: Screenshot of the team website
 
 
 
