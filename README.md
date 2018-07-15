@@ -13,10 +13,10 @@ Each week constsits of two days of learning (workshops, presentations and resear
 ### :wavy_dash: Design challenge: Layout and spacing
 * Try to create style guidelines (like [Airbnb](https://airbnb.design/building-a-visual-language/)) for your project website that scales the size and spacing of elements based on mathematic ratios
 
-### :rocket: Team project: Get to know callback functions and learn to test everything
+### :rocket: Team project: Get to know callback functions, working with someone else code and learn to test everything
 The project brief asked for: 
-* A [to-do app](https://fac-14.github.io/teamcoolerweek2/) 
-* A [GitHub repo](https://github.com/fac-14/teamcoolerweek2) ready for code review
+* A [to-do app](https://fac-14.github.io/teamcoolerweek-2/) 
+* A [GitHub repo](https://github.com/fac-14/teamcoolerweek-2) ready for code review
 
 --- 
 
