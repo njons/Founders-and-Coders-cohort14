@@ -3,6 +3,28 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
+##  Week 3 - APIs
+### :school_satchel: Main workshop learnings: 
+* API calls: the request-response patter, HTTP, xhr requests and dealing with the asychronicity of API calls  
+* Software architecture
+* Software design
+* Closures, the difference between let and var
+* Tips on how to clean up code
+
+### :wavy_dash: Design challenge: Grids!!!
+* Try to create a design for the project website based on a given grid 
+
+### :rocket: Team project: GitHub battles
+The project brief asked for:
+* A website that uses 2 different API calls to retrieve data 
+* We built [GitHub battles](https://fac-14.github.io/NDJS-API/), a top trumps website based on GitHub personal stats 
+* A [GitHub repo](https://github.com/fac-14/NDJS-API) ready for code review
+
+![GitHub battles](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week3_project_GitHub%20battles.png)
+Screenshot of GitHub battles
+
+--- 
+
 ##  Week 2 - testing 
 ### :school_satchel: Main workshop learnings: 
 * npm 
