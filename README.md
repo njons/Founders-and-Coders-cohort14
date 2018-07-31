@@ -3,6 +3,25 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
+##  Week 4 - node.js server
+### :school_satchel: Main workshop learnings: 
+* node.js: starting a server, routing traffic and handling client requests and responses to and from the server
+* ES6 and ES5
+
+### :wavy_dash: Design challenge: UI components 
+* Try to style an exciting input box for your project
+
+### :rocket: Team project: Autocomplete Trump Tweet
+The project brief asked for:
+* A server hosted on Heroku, containing data that can be matched with user input
+* We built [Autocomplete Trump Tweet](https://desolate-shore-83992.herokuapp.com/), based on a [NY Times article](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html?mtrref=undefined), titled _"The 487 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List"_
+* A [GitHub repo](https://github.com/fac-14/NDJS-node-autocompleter) ready for code review
+
+![Autocomplete Trump Tweet](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week4_project_autocomplete%20trump%20tweet.png)
+Screenshot of Autocomplete Trump Tweet
+
+---
+
 ##  Week 3 - APIs
 ### :school_satchel: Main workshop learnings: 
 * API calls: the request-response patter, HTTP, xhr requests and dealing with the asychronicity of API calls  
