@@ -32,7 +32,7 @@ Screenshot of Mackerel Time
 ### :rocket: Team project: New York Guardian
 The project brief asked for:
 * A website hosted on Heroku, making back-end API based on user input
-* We built [New York Guardian](https://floating-mountain-51197.herokuapp.com/), a collection of unrelated news from multiple sources with hopefully funny results
+* We built [New York Guardian](https://floating-mountain-51197.herokuapp.com/), a collection of unrelated news from multiple sources (and gifs of course) with hopefully funny results
 * A [GitHub repo](https://github.com/fac-14/HMEN) ready for code review
 
 ![New York Guardian](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week5_project_New%20York%20Guardian.png)
