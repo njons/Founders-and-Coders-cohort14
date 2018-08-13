@@ -17,7 +17,7 @@ The project brief asked for:
 * We built [Mackerel Time](https://doggo-booker.herokuapp.com/), an urgently needed tool allowing people to book time in with the FAC14 resident dog Mackerel
 * A [GitHub repo](https://github.com/arrested-developer/doggo-booker) ready for code review
 
-![Mackerel Time]()
+![Mackerel Time](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week6_project_Mackerel%20Time.png)
 Screenshot of Mackerel Time
 
 ---
@@ -35,7 +35,7 @@ The project brief asked for:
 * We built [New York Guardian](https://floating-mountain-51197.herokuapp.com/), a collection of unrelated news from multiple sources with hopefully funny results
 * A [GitHub repo](https://github.com/fac-14/HMEN) ready for code review
 
-![New York Guardian]()
+![New York Guardian](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week5_project_New%20York%20Guardian.png)
 Screenshot of New York Guardian
 
 ---
