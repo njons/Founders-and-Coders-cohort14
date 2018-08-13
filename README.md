@@ -3,7 +3,44 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
-##  Week 4 - node.js server
+##  Week 6 - databases 
+### :school_satchel: Main workshop learnings: 
+* SQL: retrieving and storing information in a postgres database 
+* ES6 and ES5
+
+### :wavy_dash: Design challenge: Colours 
+* Try to decide on a colour palette for your project
+
+### :rocket: Team project: Mackerel Time
+The project brief asked for:
+* A website storing data on a Heroku-hosted database
+* We built [Mackerel Time](https://doggo-booker.herokuapp.com/), an urgently needed tool allowing people to book time in with the FAC14 resident dog Mackerel
+* A [GitHub repo](https://github.com/arrested-developer/doggo-booker) ready for code review
+
+![Mackerel Time]()
+Screenshot of Mackerel Time
+
+---
+
+##  Week 5 - node.js server making back-end API requests
+### :school_satchel: Main workshop learnings: 
+* node.js: starting a server, routing traffic and handling client requests and responses to and from the server
+* ESlint
+* Continuous integration: Travis
+* Moving data from back-end to front-end 
+
+### :rocket: Team project: New York Guardian
+The project brief asked for:
+* A website hosted on Heroku, making back-end API based on user input
+* We built [New York Guardian](https://floating-mountain-51197.herokuapp.com/), a collection of unrelated news from multiple sources with hopefully funny results
+* A [GitHub repo](https://github.com/fac-14/HMEN) ready for code review
+
+![New York Guardian]()
+Screenshot of New York Guardian
+
+---
+
+##  Week 4 - node.js server making front-end API requests
 ### :school_satchel: Main workshop learnings: 
 * node.js: starting a server, routing traffic and handling client requests and responses to and from the server
 * ES6 and ES5
