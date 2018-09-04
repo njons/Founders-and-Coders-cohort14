@@ -12,14 +12,14 @@ Each week constsits of two days of learning (workshops, presentations and resear
 ### :wavy_dash: Design challenge: Userflow 
 * Try to create a userflow and wireframes for your project
 
-### :rocket: Team project: Mackerel Time - with user accounts!
+### :rocket: Team project: Mackerel Time V2.0 - now with user accounts!
 The project brief asked for:
 * A website storing data on a Heroku-hosted database
 * We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/), an urgently needed tool allowing people to book time in with the FAC14 resident dog Mackerel
 * A [GitHub repo](https://github.com/SleepySheepy172/doggo-booker) ready for code review
 
-![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week6_project_Mackerel%20Time.png)
-Screenshot of Mackerel Time
+![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week7_project_Mackerel%20Time_V2.0.png)
+Screenshot of Mackerel Time V2.0
 
 ---
 
