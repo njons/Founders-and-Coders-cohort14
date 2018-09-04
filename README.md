@@ -15,7 +15,7 @@ Each week constsits of two days of learning (workshops, presentations and resear
 ### :rocket: Team project: Mackerel Time V2.0 - now with user accounts!
 The project brief asked for:
 * A website storing data on a Heroku-hosted database
-* We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/), an urgently needed tool allowing people to book time in with the FAC14 resident dog Mackerel
+* We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/) now with user accounts for each person that wants to book time with Mackerel
 * A [GitHub repo](https://github.com/SleepySheepy172/doggo-booker) ready for code review
 
 ![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week7_project_Mackerel%20Time_V2.0.png)
