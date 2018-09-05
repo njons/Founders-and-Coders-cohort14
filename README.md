@@ -7,11 +7,10 @@ Each week constsits of two days of learning (workshops, presentations and resear
 
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
-* A website storing data on a Heroku-hosted database
-* We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/) now with user accounts for each person that wants to book time with Mackerel
-* A [GitHub repo](https://github.com/SleepySheepy172/doggo-booker) ready for code review
+* We built [FACr] now with user accounts for each person that wants to book time with Mackerel
+* A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
-![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week7_project_Mackerel%20Time_V2.0.png)
+![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week8_project_FACr.png)
 Screenshot of Mackerel Time V2.0
 
 ---
