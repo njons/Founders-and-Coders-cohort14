@@ -4,15 +4,8 @@ Founders and Coders offer a 16-week full-stack JavaScript course for 16 students
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
 
 ##  Week 8 - Express.js 
-### :school_satchel: Main workshop learnings: 
-* user accounts and hashing of passwords 
-* user authentication with bcryptjs
-* cookies: creating cookies with jsonwebtoken and reding cookies with cookie
 
-### :wavy_dash: Design challenge: Userflow 
-* Try to create a userflow and wireframes for your project
-
-### :rocket: Team project: Mackerel Time V2.0 - now with user accounts!
+### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
 * A website storing data on a Heroku-hosted database
 * We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/) now with user accounts for each person that wants to book time with Mackerel
