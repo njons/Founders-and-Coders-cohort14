@@ -11,7 +11,6 @@ The project brief asked for:
 * A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
 ![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week8_project_FACr.png)
-Screenshot of FACr
 
 ---
 
