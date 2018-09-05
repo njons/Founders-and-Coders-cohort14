@@ -1,9 +1,14 @@
 # Founders-and-Coders-cohort14 (first half of learning)
 Founders and Coders offer a 16-week full-stack JavaScript course for 16 students that fulfill the [pre-requisites](https://foundersandcoders.com/apply/prerequisites/). The course for cohort 14 started on 2 July and ends 19 October 2018.
 
-Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles.
+Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles, as well as a cohort retrospective and a team retrospective to reflect on team dynamics.
 
-##  Week 8 - Express.js 
+##  Week 8 - Express.js
+### :school_satchel: Main workshop learnings: 
+* Express.js and handlebars
+* Testing of Express.js routes
+* Middleware, such as bodyparser, morgan, 
+* CSS animation challenge
 
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
