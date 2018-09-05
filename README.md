@@ -10,6 +10,9 @@ Each week constsits of two days of learning (workshops, presentations and resear
 * Middleware, such as bodyparser, morgan, 
 * CSS animation challenge
 
+### :wavy_dash: Design challenge: Userflow 
+* Try to create a userflow and wireframes for your project
+
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
 * We built [FACr] now with user accounts for each person that wants to book time with Mackerel
@@ -25,8 +28,6 @@ The project brief asked for:
 * user authentication with bcryptjs
 * cookies: creating cookies with jsonwebtoken and reding cookies with cookie
 
-### :wavy_dash: Design challenge: Userflow 
-* Try to create a userflow and wireframes for your project
 
 ### :rocket: Team project: Mackerel Time V2.0 - now with user accounts!
 The project brief asked for:
