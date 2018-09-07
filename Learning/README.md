@@ -153,7 +153,7 @@ The project brief asked for:
 * A [team website](https://fac-14.github.io/teamcoolerweek1/) 
 * A [GitHub repo](https://github.com/fac-14/teamcoolerweek1) ready for code review
 
-![Team website](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week1_project_team%20website.png)
+![Team website](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week1_project_team%20website.png)
 Screenshot of the team website
 
 
