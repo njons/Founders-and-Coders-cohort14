@@ -17,11 +17,11 @@ The project brief asked for:
 * We built [FACr] now with user accounts for each person that wants to book time with Mackerel
 * A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
-![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week8_project_FACr.png)
+![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week8_project_FACr.png)
 
 ---
 
-##  Week 7 - authorisation 
+##  Week 7 - Authenication
 ### :school_satchel: Main workshop learnings: 
 * user accounts and hashing of passwords 
 * user authentication with bcryptjs
@@ -34,7 +34,7 @@ The project brief asked for:
 * We built [Mackerel Time V2.0](https://mackerel-time.herokuapp.com/) now with user accounts for each person that wants to book time with Mackerel
 * A [GitHub repo](https://github.com/SleepySheepy172/doggo-booker) ready for code review
 
-![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week7_project_Mackerel%20Time_V2.0.png)
+![Mackerel Time V2.0](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week7_project_Mackerel%20Time_V2.0.png)
 Screenshot of Mackerel Time V2.0
 
 ---
@@ -53,7 +53,7 @@ The project brief asked for:
 * We built [Mackerel Time](https://doggo-booker.herokuapp.com/), an urgently needed tool allowing people to book time in with the FAC14 resident dog Mackerel
 * A [GitHub repo](https://github.com/arrested-developer/doggo-booker) ready for code review
 
-![Mackerel Time](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week6_project_Mackerel%20Time.png)
+![Mackerel Time](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week6_project_Mackerel%20Time.png)
 Screenshot of Mackerel Time
 
 ---
@@ -71,7 +71,7 @@ The project brief asked for:
 * We built [New York Guardian](https://floating-mountain-51197.herokuapp.com/), a collection of unrelated news from multiple sources (and gifs of course) with hopefully funny results
 * A [GitHub repo](https://github.com/fac-14/HMEN) ready for code review
 
-![New York Guardian](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week5_project_New%20York%20Guardian.png)
+![New York Guardian](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week5_project_New%20York%20Guardian.png)
 Screenshot of New York Guardian
 
 ---
@@ -90,7 +90,7 @@ The project brief asked for:
 * We built [Autocomplete Trump Tweet](https://desolate-shore-83992.herokuapp.com/), based on a [NY Times article](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html?mtrref=undefined), titled _"The 487 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List"_
 * A [GitHub repo](https://github.com/fac-14/NDJS-node-autocompleter) ready for code review
 
-![Autocomplete Trump Tweet](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week4_project_autocomplete%20trump%20tweet.png)
+![Autocomplete Trump Tweet](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week4_project_autocomplete%20trump%20tweet.png)
 Screenshot of Autocomplete Trump Tweet
 
 ---
@@ -112,7 +112,7 @@ The project brief asked for:
 * We built [GitHub battles](https://fac-14.github.io/NDJS-API/), a top trumps website based on GitHub personal stats 
 * A [GitHub repo](https://github.com/fac-14/NDJS-API) ready for code review
 
-![GitHub battles](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week3_project_GitHub%20battles.png)
+![GitHub battles](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week3_project_GitHub%20battles.png)
 Screenshot of GitHub battles
 
 --- 
@@ -132,7 +132,7 @@ The project brief asked for:
 * A [to-do app](https://fac-14.github.io/teamcoolerweek-2/) 
 * A [GitHub repo](https://github.com/fac-14/teamcoolerweek-2) ready for code review
 
-![To-do app](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/week2_project_to-do%20app.png)
+![To-do app](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week2_project_to-do%20app.png)
 Screenshot of the to-do app
 
 --- 
