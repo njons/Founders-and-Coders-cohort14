@@ -3,6 +3,7 @@
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles, as well as a cohort retrospective and a team retrospective to reflect on team dynamics.
 
 ## Week 13 - React
+### :school_satchel: Main workshop learnings: 
 * React thinking: managing the of`state` and `props` of components 
 * Testing with Jest 
 * The `this` keyword and its relation to arrow and non-arrow functions in React
