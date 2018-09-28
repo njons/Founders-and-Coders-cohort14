@@ -14,7 +14,7 @@ Each week constsits of two days of learning (workshops, presentations and resear
 
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
-* We built [FACr] now with user accounts for each person that wants to book time with Mackerel
+* We built [FACr]() an online resource to find FAC alumni form previous cohorts 
 * A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
 ![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week8_project_FACr.png)
@@ -23,9 +23,9 @@ The project brief asked for:
 
 ##  Week 7 - Authenication
 ### :school_satchel: Main workshop learnings: 
-* user accounts and hashing of passwords 
-* user authentication with bcryptjs
-* cookies: creating cookies with jsonwebtoken and reding cookies with cookie
+* User accounts and hashing of passwords 
+* User authentication with bcryptjs
+* Cookies: creating cookies with the npm module jsonwebtoken and reading cookies with the npm module cookie
 
 
 ### :rocket: Team project: Mackerel Time V2.0 - now with user accounts!
