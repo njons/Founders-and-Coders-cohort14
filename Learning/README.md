@@ -2,11 +2,22 @@
 
 Each week constsits of two days of learning (workshops, presentations and research) and two days of project work in teams of 4 people, followed by a presentation of the project outcome and struggles, as well as a cohort retrospective and a team retrospective to reflect on team dynamics.
 
+## Week 13 - React
+* React thinking: managing the of`state` and `props` of components 
+* Testing with Jest 
+* The `this` keyword and its relation to arrow and non-arrow functions in React
+
+### :rocket: Team project: Lose Your MindSweeper
+The project brief asked for:
+* A singe page app game built with React 
+* We built [Lose Your MindSweeper](https://inspiring-booth-7d29c5.netlify.com) modeled on a standard FAC workshop where you try to stay cool, learn and not lose yourself in frustration
+* A [GitHub repo](https://github.com/fac-14/minesweeper) ready for code review
+
 ##  Week 8 - Express.js
 ### :school_satchel: Main workshop learnings: 
-* Express.js and handlebars
+* Express.js and Handlebars.js
 * Testing of Express.js routes
-* Middleware, such as bodyparser, morgan, 
+* Middleware, such as bodyparser, morgan
 * CSS animation challenge
 
 ### :wavy_dash: Design challenge: Userflow 
@@ -14,6 +25,7 @@ Each week constsits of two days of learning (workshops, presentations and resear
 
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
+* A website built with Express.js and Handlebars.js
 * We built [FACr]() an online resource to find FAC alumni form previous cohorts 
 * A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
