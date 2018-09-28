@@ -16,6 +16,8 @@ The project brief asked for:
 
 ![Lose Your MindSweeper](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week13_project_LoseYourMindSweeper.png)
 
+---
+
 ##  Week 8 - Express.js
 ### :school_satchel: Main workshop learnings: 
 * Express.js and Handlebars.js
