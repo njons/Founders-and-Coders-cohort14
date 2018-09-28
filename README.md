@@ -20,7 +20,8 @@ The second half of the course is focused on two 3-week projects addressing a spe
 * Student project: A product developed to address a problem suggested by one of the students. Click here to read more about my student project [VentBot](). 
 * Client project: A real-world product for a client that has attended the problem identifying and ideation workshops. Click here to read more about my client project. 
 
-## Other 
-Throughout the entire course we also: 
+## Other cool things :v:
+Throughout the entire course we also:
+* All programming (workshops, projects and code review) done as pair or mob-programming
 * Have weekly SGC meetings where improvements to the course for the next cohort are discussed
 * Run weekly workshops with clinets in the tech for good sector
