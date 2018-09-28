@@ -14,6 +14,8 @@ The project brief asked for:
 * We built [Lose Your MindSweeper](https://inspiring-booth-7d29c5.netlify.com) modeled on a standard FAC workshop where you try to stay cool, learn and not lose yourself in frustration
 * A [GitHub repo](https://github.com/fac-14/minesweeper) ready for code review
 
+![Lose Your MindSweeper](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week13_project_LoseYourMindSweeper.png)
+
 ##  Week 8 - Express.js
 ### :school_satchel: Main workshop learnings: 
 * Express.js and Handlebars.js
