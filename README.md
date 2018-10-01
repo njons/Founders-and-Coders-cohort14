@@ -23,7 +23,7 @@ The second half of the course is focused on two 3-week projects addressing a spe
 ## Other cool things :v:
 Throughout the entire course we also:
 * All programming (workshops, projects and code review) done as **pair or mob-programming**
-* Have **weekly SGC meetings discussing improvements to the course** for the next cohort are discussed
+* Have **weekly SGC meetings discussing improvements to the course** for the next cohort
 * Run **weekly workshops with clients** in the tech for good sector
 * **Host meetups** for other prospective students who want to apply to future cohorts and a 'Coding for Women' meetup open to the general public
 * **Mentor the next cohort** for one week
