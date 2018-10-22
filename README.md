@@ -1,11 +1,11 @@
 # Founders and Coders cohort14 
 Founders and Coders offer a 16-week full-stack JavaScript course for 16 students that fulfill the [pre-requisites](https://foundersandcoders.com/apply/prerequisites/) and are accepted after being interviewed. 
-The course for cohort 14 started on 2 July and ends 19 October 2018.
+The course for cohort 14 started on 2 July and ended 19 October 2018.
 
 ![FAC14 cohort](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/FAC14_cohort.jpg)
  
 ## [Learning](https://github.com/njons/Founders-and-Coders-cohort14/tree/master/Learning) :computer:
-The first half of the course is focused only on learning and [each week introduces a new topic](https://github.com/njons/Founders-and-Coders-cohort14/tree/master/Learning) acccodring to the schedule below:
+The first half of the course is focused only on learning and [each week introduced a new topic](https://github.com/njons/Founders-and-Coders-cohort14/tree/master/Learning) acccodring to the schedule below:
 
 Day | Activity
 ------------ | -----------
