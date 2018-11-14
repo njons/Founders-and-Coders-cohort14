@@ -31,7 +31,7 @@ The project brief asked for:
 ### :rocket: Team project: FACr - find alumni from previous cohorts
 The project brief asked for:
 * A website built with Express.js and Handlebars.js
-* We built [FACr]() an online resource to find FAC alumni form previous cohorts 
+* We built [FACr]() an online resource to find FAC alumni from previous cohorts 
 * A [GitHub repo](https://github.com/fac-14/SEMN) ready for code review
 
 ![FACr](https://github.com/njons/Founders-and-Coders-cohort14/blob/master/Learning/img/week8_project_FACr.png)
