@@ -20,7 +20,7 @@ Click [here](https://github.com/njons/Founders-and-Coders-cohort14/tree/master/L
 ## Projects :hammer:
 The second half of the course is focused on two 3-week projects addressing a specific real-world problem: 
 * Student project: A chatbot developed to address a problem suggested by one of the students. Click here to read more about my student project: [VentBot](https://github.com/fac-14/Vent-Bot). 
-* Client project: An app for medical students to practice for the OSCE (objective structured clinical examination), a soft-skill exam where students are graded on their interation with actors posing as patinets. Click here to read more about my client project: [OSCEBossKey](https://github.com/fac-14/OSCEBossKey)
+* Client project: An app for medical students to practice for the OSCE (objective structured clinical examination), a soft-skill exam where students are graded on their interation with actors posing as patinets. Click here to read more about my client project: [OSCEBossKey](https://stormy-spire-19544.herokuapp.com/history)
 
 ## Other cool things :v:
 Throughout the entire course we also:
